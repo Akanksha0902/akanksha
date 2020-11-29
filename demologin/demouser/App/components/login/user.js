@@ -14,7 +14,7 @@ import {bindActionCreators} from 'redux';
       "age" : "11",
       "gender":"male",
       "email" : "test1@gmail.com",
-      "phoneNo" : "9738452245"
+      "phoneNo" : "9415346313"
     },
     {
     "id" : 2,
@@ -22,7 +22,7 @@ import {bindActionCreators} from 'redux';
     "age" : "12",
     "gender":"male",
     "email" : "test2@gmail.com",
-    "phoneNo" : "9738452245"
+    "phoneNo" : "9415346314"
 
     },
     {
@@ -31,7 +31,7 @@ import {bindActionCreators} from 'redux';
     "age" : "13",
     "gender":"male",
     "email" : "test3@gmail.com",
-    "phoneNo" : "9738452245"
+    "phoneNo" : "9415346315"
     },
     {
     "id":4,
@@ -39,7 +39,7 @@ import {bindActionCreators} from 'redux';
     "age" : "14",
     "gender":"male",
     "email" : "test4@gmail.com",
-    "phoneNo" : "9738452245"
+    "phoneNo" : "9415346316"
     },
     {
     "id":5,
@@ -47,7 +47,7 @@ import {bindActionCreators} from 'redux';
     "age" : "15",
     "gender":"male",
     "email" : "test5@gmail.com",
-    "phoneNo" : "9738452245"
+    "phoneNo" : "9415346317"
     },
     {
     "id":6,
@@ -55,7 +55,7 @@ import {bindActionCreators} from 'redux';
     "age" : "16",
     "gender":"male",
     "email" : "test6@gmail.com",
-    "phoneNo" : "9738452245"
+    "phoneNo" : "9415346318"
     }
   ];
 

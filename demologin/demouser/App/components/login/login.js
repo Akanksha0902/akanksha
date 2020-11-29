@@ -12,8 +12,8 @@ class Login extends Component {
   constructor(props){
     super(props);
     this.state = {
-      match_email      : 'prashant@gmail.com' ,
-      match_password   :   'prashant123',
+      match_email      : 'hruday@gmail.com' ,
+      match_password   :   'hruday123',
       userId           : null,
       password         : null,
     }
